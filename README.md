@@ -15,6 +15,8 @@ Apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
 ## 🚀 Sobre mim
 
+🎉 19 Anos de Idade
+
 🎓 Cursando o **4º período de Análise e Desenvolvimento de Sistemas**.
 
 💻 Atualmente aprofundando meus conhecimentos em **C#** e programação orientada a objetos.
